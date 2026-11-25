@@ -1,1 +1,1 @@
-Barcode-scanner
+barcodescanner
